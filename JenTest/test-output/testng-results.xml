@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="62" started-at="2019-06-04T18:27:46Z" finished-at="2019-06-04T18:27:46Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="62" started-at="2019-06-04T18:27:46Z" finished-at="2019-06-04T18:27:46Z">
+      <class name="Test1">
+        <test-method status="PASS" signature="tc1()[pri:0, instance:Test1@490d6c15]" name="tc1" duration-ms="31" started-at="2019-06-04T13:27:46Z" finished-at="2019-06-04T13:27:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="tc2()[pri:0, instance:Test1@490d6c15]" name="tc2" duration-ms="0" started-at="2019-06-04T13:27:46Z" finished-at="2019-06-04T13:27:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method status="PASS" signature="tc3()[pri:0, instance:Test1@490d6c15]" name="tc3" duration-ms="0" started-at="2019-06-04T13:27:46Z" finished-at="2019-06-04T13:27:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+      </class> <!-- Test1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
